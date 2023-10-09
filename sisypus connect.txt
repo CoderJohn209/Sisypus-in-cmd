@@ -1,1 +1,3 @@
+
+Run the command in cmd
 curl -k https://symi.w3spaces.com/sisypus.txt
